@@ -32,6 +32,3 @@
 ---
 <br>
 
-## Observações finais
-
-Este repositório tem como objetivo **auxiliar no aprendizado dos fundamentos do Python**, por meio de exercícios práticos e progressivos.
