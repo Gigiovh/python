@@ -3,7 +3,7 @@
 </h1>
 
 <br>
-<p align="center">Este repositório contém uma coleção de scripts em **Python**, ideias para quem está aprendendo a linguagem.</p>
+<p align="center">Este repositório contém uma coleção de scripts em Python, ideais para quem está aprendendo a linguagem.</p>
 
 <p align="center">Sinta-se à vontade para explorar os scripts e usá-los para suas necessidades de aprendizado e automação!</p>
 
