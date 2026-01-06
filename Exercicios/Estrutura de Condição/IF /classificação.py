@@ -1,3 +1,4 @@
+#nadador
 n1=int(input('Digite a idade do nadador:'))
 if n1 <=9:
     print('Ele é um nadador mirim')
@@ -8,4 +9,5 @@ elif n1 >14 and n1<19:
 elif n1>19 and n1<25:
     print('Ele é um nadador sênior')
 else :
+
     print('Ele é um nadador master')
