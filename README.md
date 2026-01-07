@@ -26,9 +26,6 @@
 5. **Funções em Python**  
    Exercícios voltados à criação e utilização de funções, incentivando a organização e reutilização do código.
 
-6. **Listas**  
-   Exercícios que abordam a criação, manipulação e acesso a listas, uma das principais estruturas de dados do Python.
-
 ---
 <br>
 
